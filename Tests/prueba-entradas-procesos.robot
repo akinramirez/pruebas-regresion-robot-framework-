@@ -11,6 +11,7 @@ ${URL} =  http://localhost/Administrador%20de%20proyectos/Proyectos/
 ${USUARIO-ROOT} =  ROOT
 ${CONTRASENA-ROOT} =  Hola123
 
+
 *** Test Cases ***
 
 Abrir explorador web
